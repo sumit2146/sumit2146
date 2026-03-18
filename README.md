@@ -46,7 +46,7 @@
 </p>
 
 ## 💬 Quote
-> "Life is Like a Game Enjoy a much as you Can"
+> "Life is Like a Game Enjoy as much as you Can"
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
