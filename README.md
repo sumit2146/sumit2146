@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<img src="https://drive.google.com/file/d/1y0rTjKoUz_BK6cn0PPJtVlHkVRLS---u/view?usp=drive_link" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Computer Engineering Student
